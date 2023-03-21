@@ -3,7 +3,7 @@
 * @author Борисов Д.Е.
 * @version 1.0
 * @brief Описание класса Cipher
-* @date 22.12.2022
+* @date 21.03.2023
 * @copyright ИБСТ ПГУ
 */
 
